@@ -1,0 +1,25 @@
+@media only screen and (max-width: 768px) {
+    
+    .header-text h1{font-size: 30px;}
+    .header-text p {font-size: 14px;}
+    .header-form{margin-top: 25px;}
+    .section-title h2 { font-size: 24px;}
+    .section-title p{width: 100%;}
+    .single-feature, .single-price, .single-blog{margin-bottom: 25px;}
+    section {padding-top: 50px;}
+    .travel-slider {
+        padding-bottom: 10px;
+    }
+    .section-title{
+        padding-bottom: 10px;
+    }
+    .single-service{
+        background: red;
+        margin-bottom: 25px;
+    }
+    .main-video{min-height: 280px;}
+    .fa-bars{
+        color: #fff;
+    }
+
+}
